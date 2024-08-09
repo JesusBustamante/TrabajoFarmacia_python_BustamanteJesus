@@ -1,0 +1,20 @@
+[
+    {
+        "fecha": "2024-08-08",
+        "paciente": {
+            "nombre": "Jesus",
+            "direccion": "Los Pinos"
+        },
+        "empleado": {
+            "nombre": "Carlos",
+            "cargo": "Enfermero"
+        },
+        "productos": [
+            {
+                "nombreMedicamento": "Paracetamol",
+                "cantidadVendida": 2,
+                "precio": 20
+            }
+        ]
+    }
+]
