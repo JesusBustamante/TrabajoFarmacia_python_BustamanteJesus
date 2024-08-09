@@ -4,13 +4,19 @@ Sistema integral de gestión de la administración de medicamentos, proveedores,
 
 # Índice
 
-1. [Descripción del Proyecto](#id2)
-2. [Tecnologías Utilizadas](#id3)
-3. [Estructura del proyecto](#id4)
-4. [Características](#id5)
-5. [Diseño](#id6)
-6. [Instrucciones](#id7)
-7. [Personas Desarrolladoras del Proyecto](#id8)
+1. [Estado del proyecto](#id1)
+2. [Descripción del Proyecto](#id2)
+3. [Tecnologías Utilizadas](#id3)
+4. [Estructura del proyecto](#id4)
+5. [Características](#id5)
+6. [Diseño](#id6)
+7. [Instrucciones](#id7)
+8. [Personas Desarrolladoras del Proyecto](#id8)
+
+
+# Estado del Proyecto<a name="id1"></a>
+
+Finalizado
 
 
 # Descripción del Proyecto<a name="id2"></a>
@@ -33,6 +39,14 @@ Este sistema de gestión integral proporcionará a la farmacia las herramientas 
 # Tecnologías utilizadas<a name="id3"></a>
 
 * Python
+
+# Estructura del Proyecto
+
+- compras.json
+- main.py
+- README.md
+- stock.json
+- ventas.json
 
 # Características<a name="id5"></a>
 
