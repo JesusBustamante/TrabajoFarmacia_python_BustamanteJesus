@@ -1,0 +1,17 @@
+[
+    {
+        "fecha": "2024-08-08",
+        "proveedor": {
+            "nombre": "Lucas",
+            "contacto": "3156611676"
+        },
+        "productos": [
+            {
+                "nombre": "Paracetamol",
+                "cantidad": 5,
+                "precio_compra": 15.0,
+                "total": 75.0
+            }
+        ]
+    }
+]
