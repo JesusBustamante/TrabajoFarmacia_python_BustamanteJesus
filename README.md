@@ -42,11 +42,7 @@ Este sistema de gestión integral proporcionará a la farmacia las herramientas 
 
 # Estructura del Proyecto
 
-- compras.json
-- main.py
-- README.md
-- stock.json
-- ventas.json
+![alt text](image.png)
 
 # Características<a name="id5"></a>
 
